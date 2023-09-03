@@ -10,4 +10,4 @@ age = input('나이를 입력하세요 >>>')
 
 print(f'입력된 이름은 {name}입니다.')
 print('입력된 나이는 {}입니다.'.format(age))
-
+ㅎㄹㄶㄹㅇ
